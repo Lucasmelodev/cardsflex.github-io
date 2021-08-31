@@ -14,10 +14,14 @@ Link Para Visualizar o Projeto 👉 https://lucasmelodev.github.io/cardsflex.git
 
 
 <h1> Algumas Fotos Abaixo Do Projeto 👇👇
+    
+    <p>Versão Desktop 💻 </p>
 
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/80927598/131260282-8adb0cc5-a9cb-4d20-8c67-1b75526b6a83.png">
 <br>
 <br>
+    
+    <p>Versão Desktop 💻 </p>
 <img src="https://user-images.githubusercontent.com/80927598/131260391-b316378c-66ad-4422-b09c-ea30d4dbbc5d.png">
