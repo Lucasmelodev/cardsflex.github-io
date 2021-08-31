@@ -1,0 +1,77 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+body {
+  background-color: #002e7b;
+}
+
+.card {
+  width: 209px;
+  height: 290px;
+  background-color: #ffffff;
+  border: 10px;
+  border-radius: 10px;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+.pai-card {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+ul li {
+  margin-left: 10px;
+  font-family: "Lora", serif;
+  font-size: 14px;
+  text-align: left;
+  margin-top: 15px;
+  list-style-image: url(Screenshot_2.png);
+  margin-left: 15px;
+  color: #b5bcc0;
+}
+
+h1 {
+  text-align: center;
+  color: #b5c4d9;
+  font-size: 26px;
+  font-family: monospace;
+  margin-bottom: 10px;
+  font-family: "Pacifico", cursive;
+}
+
+button {
+  background-color: #002e7b;
+  border-radius: 5px;
+  text-align: center;
+  width: 100px;
+  height: 45px;
+  font-family: "Lora", serif;
+  margin-top: 10px;
+  font-size: 1.3rem;
+  color: #ffffff;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0px;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+@media screen and (max-width: 750px) {
+  .flex-container {
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+  }
+}
