@@ -20,7 +20,6 @@ Link Para Visualizar o Projeto 👉 https://lucasmelodev.github.io/cardsflex.git
     Versão Desktop 💻 
 
 <br>
-<br>
 <img src="https://user-images.githubusercontent.com/80927598/131260282-8adb0cc5-a9cb-4d20-8c67-1b75526b6a83.png">
 <br>
 <br>
