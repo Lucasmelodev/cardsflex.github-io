@@ -1,9 +1,11 @@
 
 <p>Criei 3 Cards ( Responsivos ) para praticar Flexbox No CSS e treinar um pouco do meu conhecimento , até que gostei do resultado apesar de ser complicado de entender algumas coisas no inicio depois algum tempo estudando e praticando as coisas vão começando a fluir , estou apenas no inicio de tudo mas com fé eu irei realizar meu sonho de ser um dev...</p>
 
-Link Para o Projeto 👉 https://lucasmelodev.github.io/cardsflex.github-io/
+Link Para Visualizar o Projeto 👉 https://lucasmelodev.github.io/cardsflex.github-io/
 
-Tecnologias Usadas 👉![css-3-icon](https://user-images.githubusercontent.com/80927598/131568958-010cf9a8-0e9f-43fa-aa9c-1a8122a38753.png)
+Tecnologias Usadas 👉![css-3-icon (1)](https://user-images.githubusercontent.com/80927598/131569134-b0a5ed4f-6444-4238-8f37-78481bb394f8.png)
+![html-5-icon](https://user-images.githubusercontent.com/80927598/131569216-c90b8e8c-2891-45c3-a978-5f4d2dab520e.png)
+
 
 <br>
 <br>
