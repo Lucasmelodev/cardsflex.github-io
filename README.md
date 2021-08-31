@@ -26,6 +26,5 @@ Link Para Visualizar o Projeto 👉 https://lucasmelodev.github.io/cardsflex.git
     
     Versão Mobile📱
     
-    
-    <br>
+ <br>   
 <img src="https://user-images.githubusercontent.com/80927598/131260391-b316378c-66ad-4422-b09c-ea30d4dbbc5d.png">
