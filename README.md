@@ -6,8 +6,10 @@ Link Para Visualizar o Projeto 👉 https://lucasmelodev.github.io/cardsflex.git
                                                           Tecnologias Usadas 👇
                                                           
   
- ![html-5-icon](https://user-images.githubusercontent.com/80927598/131![css-3-icon (1)](https://user-images.githubusercontent.com/80927598/131569975-55bdc04f-e5bb-4f0b-bc63-afc5b194c514.png)
-569970-fa3a4995-b34c-4064-b8db-ddd27099c2b9.png)
+![html-5-icon (1)](https://user-images.githubusercontent.com/80927598/131570002-e7a2efb6-789b-4508-87d3-350d7643af19.png)
+![css-3-icon (1)](https://user-images.githubusercontent.com/80927598/131570014-d9fb31e3-4922-4a21-91bb-83c0703b4e8a.png)
+
+
 
 
 
